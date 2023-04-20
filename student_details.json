@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Axyl Matt Failagao Llido",
+            "Age": "22",
+            "Favorite_Quote": "Manners maketh man."
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1901101864@student.buksu.edu.ph"
+        }
+    ]
+}
